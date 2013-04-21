@@ -3,7 +3,7 @@ SpaceApps
 
 For the GeoPuzzle Project.  
 The following is an HTML code extract used with Openlayers to put the different tiles together into a map or an overlay.
-
+This HTML is for the B/W elevation overlay that was used in the project.  Other layers and maps have been created in the same exact manner.
 Note that MapTiler was used to tile maps.
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
